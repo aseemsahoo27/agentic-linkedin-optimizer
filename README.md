@@ -37,6 +37,6 @@ Attempt 3 → Strong output ✅
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/agentic-linkedin-optimizer.git
+git clone https://github.com/aseemsahoo27/agentic-linkedin-optimizer.git
 cd agentic-linkedin-optimizer
 pip install -r requirements.txt
